@@ -29,8 +29,8 @@ PV e CV.
 
 
 O Roanoke foi feito utilizando a linguagem de programação Java, auxliado por JavaFX e Scene Builder para a construção
-da interface e posicionamento dos icônes, em relação a funcionalidade, as operações foram todas programadas e escritas dentro
-do controle.
+da interface e posicionamento dos icônes, em relação a funcionalidade. As operações foram todas programadas e escritas dentro
+do controller.
 
 # Requisitos
 
